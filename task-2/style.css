@@ -7,23 +7,24 @@
     width: 300px;
     padding: 10px;
     margin: 5px;
-    background-position: bottom;
-    background: no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 .info-1 {
 
     background: url(./assets/task2-bg.jpeg);
+    background-position: bottom;
     
 }
 
 .info-2 {
     background: url(./assets/task2-bg1.jpeg);
     background-size: 100% 120%;
+    background-position: bottom;
 }
 
 .info-3 {
     background: url(./assets/task2-bg2.jpg);
-    
+    background-position: bottom;
 }
